@@ -1,0 +1,13 @@
+.App{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.container {
+  height: auto;
+ min-width: fit-content;
+ border-radius: 10px;
+ padding: 10px;
+  border: 1px solid #d3d3d3;
+}

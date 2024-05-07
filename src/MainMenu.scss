@@ -1,0 +1,16 @@
+.select-mainmenu {
+    cursor: pointer;
+    padding:8px 8px;
+    background-color: #1c89fe;
+    color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 0px 5px;
+    outline: none;
+
+    &:hover {
+      background-color: #e0e0e0;
+      color: black;
+    }
+  }
